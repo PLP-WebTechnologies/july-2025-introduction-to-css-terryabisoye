@@ -1,0 +1,24 @@
+p {
+    font-size: 30px;
+    line-height: 1.5;
+    color: red;
+    margin: 00 1em;
+}
+#heading-one{
+    font-size: 50px;
+    color: blue;
+}
+
+.way-togo{
+    background-color: yellowgreen;
+}
+
+*{
+    font-family: 'font-family: cursive;
+    font: size 30px;
+    font-weight:lighter;
+    text-align: centre;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 2.5;
+}
